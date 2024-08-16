@@ -1,5 +1,12 @@
 {
   "metadata": {
     "name": "test-nginx-crm-staging-crm"
+  },
+  "spec": {
+    "rules": {
+      "grafana1": {
+        "port": 8080
+      }
+    }
   }
 }
