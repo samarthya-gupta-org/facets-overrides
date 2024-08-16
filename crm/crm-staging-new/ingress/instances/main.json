@@ -1,9 +1,5 @@
 {
-  "spec": {
-    "rules": {
-      "grafana1": {
-        "port": 8080
-      }
-    }
+  "metadata": {
+    "name": "test-nginx-from-crm"
   }
 }
