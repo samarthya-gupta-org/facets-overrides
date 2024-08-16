@@ -1,5 +1,6 @@
 {
   "metadata": {
-    "name": "main-added-from-crm-stack"
-  }
+    "name": "main-added-from-crm-stack-from-git"
+  },
+  "version":"0.55"
 }
