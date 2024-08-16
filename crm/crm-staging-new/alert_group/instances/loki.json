@@ -1,0 +1,10 @@
+{
+  "spec": {
+    "rules": {
+      "PromtailNonReadyPods": {
+        "for": "25m",
+        "summary": "crm-staging-new crm DaemonSet has non-ready pods for longer than 15m"
+      }
+    }
+  }
+}
