@@ -1,0 +1,11 @@
+{
+  "spec": {
+    "rules": {
+      "CertManagerChallengeError": {
+        "labels": {
+          "severity": "error"
+        }
+      }
+    }
+  }
+}

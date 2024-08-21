@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "stackName": "100-resources"
+  },
+  "spec": {
+    "rules": {
+      "StatefulSetNonReadyPods2": {
+        "annotations": {
+          "k3": "v3"
+        }
+      }
+    }
+  }
+}

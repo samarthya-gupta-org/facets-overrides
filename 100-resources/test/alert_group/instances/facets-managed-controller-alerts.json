@@ -1,0 +1,9 @@
+{
+  "spec": {
+    "rules": {
+      "controller-oom-killed": {
+        "disabled": true
+      }
+    }
+  }
+}

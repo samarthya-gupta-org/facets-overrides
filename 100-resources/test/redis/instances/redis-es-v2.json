@@ -1,0 +1,12 @@
+{
+  "spec": {
+    "persistence_enabled": true,
+    "size": {
+      "writer": {
+        "instance": "cache.c7gn.12xlarge",
+        "instance_count": "2"
+      }
+    },
+    "authenticated": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "spec": {
+    "rules": {
+      "job-pending": {
+        "disabled": true
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "spec": {
+    "runtime": {
+      "autoscaling": {
+        "cpu_threshold": 55
+      }
+    }
+  },
+  "disabled": true
+}

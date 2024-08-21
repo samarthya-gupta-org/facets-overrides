@@ -1,0 +1,12 @@
+{
+  "spec": {
+    "rules": {
+      "node-unable-to-scale-down-alert": {
+        "labels": {
+          "severity": "error"
+        },
+        "disabled": true
+      }
+    }
+  }
+}

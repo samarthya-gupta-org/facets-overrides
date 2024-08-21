@@ -1,0 +1,10 @@
+{
+  "spec": {
+    "runtime": {
+      "health_checks": {
+        "timeout": 15
+      }
+    }
+  },
+  "disabled": true
+}

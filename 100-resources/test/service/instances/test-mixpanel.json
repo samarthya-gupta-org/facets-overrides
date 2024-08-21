@@ -1,0 +1,14 @@
+{
+  "spec": {
+    "release": {
+      "image": "338360549315.dkr.ecr.us-east-1.amazonaws.com/facets/avanse-demo_avanse-demo-backend:0902247"
+    }
+  },
+  "metadata": {
+    "labels": {
+      "artifactory": "rohit-ecr",
+      "tag": "0902247",
+      "repository": "facets/avanse-demo_avanse-demo-backend"
+    }
+  }
+}

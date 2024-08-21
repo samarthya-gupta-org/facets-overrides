@@ -1,0 +1,12 @@
+{
+  "spec": {
+    "size": {
+      "writer": {
+        "instance_count": "2"
+      },
+      "reader": {
+        "instance": "db.m5.2xlarge"
+      }
+    }
+  }
+}
