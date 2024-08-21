@@ -1,0 +1,9 @@
+{
+  "spec": {
+    "rules": {
+      "KubernetesPodCrashLooping1": {
+        "for": "10m"
+      }
+    }
+  }
+}
