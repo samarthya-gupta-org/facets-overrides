@@ -2,7 +2,7 @@
   "spec": {
     "rules": {
       "grafana1": {
-        "service_name": "prometheus-operator-grafana-from-new-local-bp"
+        "service_name": "prometheus-operator-grafana-from-new-local-bp-from-git"
       }
     }
   }
