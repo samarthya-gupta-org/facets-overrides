@@ -6,7 +6,7 @@
     "rules": {
       "StatefulSetNonReadyPods2": {
         "annotations": {
-          "k3": "v3"
+          "k3": "v2"
         }
       }
     }
