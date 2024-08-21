@@ -1,0 +1,9 @@
+{
+  "spec": {
+    "rules": {
+      "frontend": {
+        "comment": "front-end-from-crm-stack"
+      }
+    }
+  }
+}
