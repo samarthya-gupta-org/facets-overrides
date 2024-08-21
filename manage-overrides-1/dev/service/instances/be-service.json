@@ -1,0 +1,12 @@
+{
+  "spec": {
+    "runtime": {
+      "health_checks": {
+        "readiness_timeout": "11",
+        "readiness_period": "33",
+        "liveness_port": "8081",
+        "liveness_start_up_time": "16"
+      }
+    }
+  }
+}
