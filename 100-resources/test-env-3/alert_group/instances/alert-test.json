@@ -1,0 +1,11 @@
+{
+  "spec": {
+    "rules": {
+      "KubernetesPodCrashLooping1": {
+        "annotations": {
+          "k1": "v2"
+        }
+      }
+    }
+  }
+}
