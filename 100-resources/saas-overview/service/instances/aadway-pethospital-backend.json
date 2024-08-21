@@ -1,0 +1,7 @@
+{
+  "spec": {
+    "env": {
+      "NEW_SECRET": "${blueprint.self.secrets.newsecret}"
+    }
+  }
+}
