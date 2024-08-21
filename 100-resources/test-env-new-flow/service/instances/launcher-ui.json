@@ -1,0 +1,14 @@
+{
+  "spec": {
+    "release": {
+      "image": "testartifactory.azurecr.io/facets-testing-api:latest"
+    }
+  },
+  "metadata": {
+    "labels": {
+      "artifactory": "azure-cr",
+      "tag": "latest",
+      "repository": "facets-testing-api"
+    }
+  }
+}

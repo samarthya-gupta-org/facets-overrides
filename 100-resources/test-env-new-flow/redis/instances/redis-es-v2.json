@@ -1,0 +1,7 @@
+{
+  "disabled": true,
+  "spec": {
+    "authenticated": true,
+    "redis_version": "6.12"
+  }
+}
