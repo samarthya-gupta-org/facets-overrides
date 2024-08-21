@@ -1,0 +1,10 @@
+{
+  "disabled": true,
+  "spec": {
+    "rules": {
+      "KubernetesPodCrashLooping1": {
+        "expr": "irate(kube_pod_container_status_restarts_total{container!=\"filebeat-daemon\"}[20m]) * 1200 > 5"
+      }
+    }
+  }
+}
