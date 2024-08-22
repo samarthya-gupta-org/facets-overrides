@@ -1,0 +1,9 @@
+{
+  "spec": {
+    "rules": {
+      "service_vpa_cpu": {
+        "for": "61m"
+      }
+    }
+  }
+}

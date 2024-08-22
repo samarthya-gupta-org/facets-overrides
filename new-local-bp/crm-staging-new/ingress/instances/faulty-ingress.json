@@ -1,8 +1,14 @@
 {
   "spec": {
+    "grpc": true,
     "rules": {
       "grafana1": {
-        "service_name": "prometheus-operator-grafana-from-new-local-bp-from-git","new-field":"new-value"
+        "service_name": "prometheus-operator-grafana-from-new-local-bp-from-git",
+        "domain_prefix": "grafana-new",
+        "annotations": {
+          "app": "app-1"
+        },
+        "new-field": "new-value is now newer"
       }
     }
   }
