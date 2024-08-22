@@ -6,7 +6,7 @@
         "service_name": "prometheus-operator-grafana-from-new-local-bp-from-git",
         "domain_prefix": "grafana-new",
         "annotations": {
-          "app": "app-7"
+          "app": "app"
         },
         "new-field": "new-value is now newest"
       }
