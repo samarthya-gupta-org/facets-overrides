@@ -2,6 +2,8 @@
   "spec": {
     "runtime": {
       "health_checks": {
+        "start_up_time": 15,
+        "timeout": 109,
         "period": 18,
         "port": 81
       }
