@@ -1,0 +1,7 @@
+{
+  "spec": {
+    "env": {
+      "scsc": "${blueprint.self.secrets.mnmm}"
+    }
+  }
+}
