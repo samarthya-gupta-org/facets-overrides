@@ -2,6 +2,7 @@
   "spec": {
     "runtime": {
       "health_checks": {
+        "period": 12,
         "port": 81
       }
     }
