@@ -1,6 +1,9 @@
 {
   "spec": {
     "runtime": {
+      "size": {
+        "cpu": "101m"
+      },
       "health_checks": {
         "period": 12,
         "port": 81
