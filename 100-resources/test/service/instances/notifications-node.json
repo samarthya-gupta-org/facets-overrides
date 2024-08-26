@@ -1,0 +1,9 @@
+{
+  "spec": {
+    "runtime": {
+      "health_checks": {
+        "port": 81
+      }
+    }
+  }
+}
