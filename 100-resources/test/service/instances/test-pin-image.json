@@ -1,0 +1,7 @@
+{
+  "spec": {
+    "env": {
+      "LOG_LEVEL": "INFO1"
+    }
+  }
+}
