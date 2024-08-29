@@ -1,0 +1,7 @@
+{
+  "spec": {
+    "env": {
+      "DUMMY": "${blueprint.self.secrets.non-existing-secret}"
+    }
+  }
+}
