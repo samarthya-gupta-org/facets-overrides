@@ -2,7 +2,7 @@
   "spec": {
     "rules": {
       "grafana1": {
-        "port": "${blueprint.self.secrets.abc}"
+        "port": "${service.be.out.interfaces.http.port}"
       }
     }
   }
