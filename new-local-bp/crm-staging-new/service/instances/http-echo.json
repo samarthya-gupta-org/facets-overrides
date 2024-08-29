@@ -3,5 +3,6 @@
     "env": {
       "DUMMY": "${blueprint.self.secrets.non-existing-secret}"
     }
-  }
+  },
+  "disabled": false
 }
