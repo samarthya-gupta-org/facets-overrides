@@ -1,15 +1,8 @@
 {
-  "version": "0.1,
   "spec": {
-    "grpc": true,
     "rules": {
       "grafana1": {
-        "service_name": "prometheus-operator-grafana-from-new-local-bp-from-git",
-        "domain_prefix": "grafana-new",
-        "annotations": {
-          "app": "application-newest"
-        },
-        "new-field": "new-value is now newest"
+        "port": "${blueprint.self.secrets.abc"
       }
     }
   }
