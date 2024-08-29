@@ -2,6 +2,7 @@
   "spec": {
     "rules": {
       "grafana1": {
+        "path": "${blueprint.self.secrets.non-existing-secret}",
         "port": "${service.be.out.interfaces.http.port}"
       }
     }
