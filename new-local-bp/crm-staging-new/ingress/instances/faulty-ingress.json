@@ -6,5 +6,6 @@
         "port": "${service.be.out.interfaces.http.port}"
       }
     }
-  }
+  },
+  "disabled": false
 }
