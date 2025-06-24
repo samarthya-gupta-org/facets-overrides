@@ -1,0 +1,9 @@
+{
+  "spec": {
+    "runtime": {
+      "size": {
+        "cpu_limit": "10025m"
+      }
+    }
+  }
+}
