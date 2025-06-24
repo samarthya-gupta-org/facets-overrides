@@ -1,7 +1,11 @@
 {
+  "version": "0.2",
   "spec": {
     "env": {
-      "DUMMY": "${blueprint.self.secrets.non-existing-secret}
+      "ref2": "${deletes}",
+      "ref3": "${blueprint.self.variables.MY_VAR3}",
+      "ref4": "${}",
+      "ref5": "${blueprint.self.artifacts}"
     }
   }
 }

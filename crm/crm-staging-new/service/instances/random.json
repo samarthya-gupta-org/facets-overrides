@@ -1,0 +1,10 @@
+{
+  "spec": {
+    "runtime": {
+      "size": {
+        "cpu": "310m"
+      }
+    }
+  },
+  "disabled": false
+}
