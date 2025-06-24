@@ -1,9 +1,9 @@
 {
-   "disabled": false,
   "spec": {
     "runtime": {
       "size": {
-        "cpu_limit": "10025m"
+        "cpu_limit": "10025m",
+        "memory_limit": "6Gi"
       }
     }
   }
